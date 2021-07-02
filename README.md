@@ -21,6 +21,11 @@ You can move start and end and in the meantime it will calculate path, it may la
 | :---:      | :---:       |
 | ![aalgorytm rtx](gify/aalgorytm%20rtx.gif)     | ![djikstra rtx](gify/djikstra%20rtx.gif) |
 
+## Draw your own mazes
+Just hold ctrl and draw walls, alt and shift to change location of start and end
+
+![draw](gify/draw.gif)
+
 ## Visited and path count
 You can compare how many squares which algorythm checked and path length
 
