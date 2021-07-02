@@ -10,16 +10,16 @@ This project uses Java and JavaFX to visualize two pathfinding algorythms: A* an
 
 ## Maze creation(Kruskal's method and random)
 
-| Kruskal's method | Random low density | Random high density |
-| :---: | :---: | :---: |
-| ![kruskal](gify/kruskal.gif) | ![Random low density ](gify/random%20low%20density.png) | ![Random high density ](gify/random%20high%20density.png) |
+| Kruskal's method | Random low/high density |
+| :---: | :---: |
+| ![kruskal](gify/kruskal.gif) | ![Random low density ](gify/random%20density.gif)|
 
 ## RTX ON/OFF - Real Time Experience :) - pick algorithm
 You can move start and end and in the meantime it will calculate path, it may lag on bigger grids
 
 | A* algorythm | Dijkstra algorythm |
 | :---:      | :---:       |
-| ![aalgorytm rtx](gify/aalgorytm%20rtx.gif)     | ![djikstra rtx](gify/djikstra%rtx.gif) |
+| ![aalgorytm rtx](gify/aalgorytm%20rtx.gif)     | ![djikstra rtx](gify/djikstra%20rtx.gif) |
 
 ## Visited and path count
 You can compare how many squares which algorythm checked and path length
