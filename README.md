@@ -6,7 +6,7 @@ This project uses Java and JavaFX to visualize two pathfinding algorythms: A* an
 
 | A* algorythm | Dijkstra algorythm |
 | :---:      | :---:       |
-| ![aalgorytm czysty](gify/aalgorytm%20czysty.gif)     | ![djikstra czysty](gify/djikstra%20czysty.gif) |
+| ![aalgorytm czysty](gify/aalgorytm%20czysty.gif)     | ![djikstra czysty](gify/djikstra%20czysty2.gif) |
 
 ## Maze creation(Kruskal's method and random)
 
