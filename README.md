@@ -1,6 +1,8 @@
 # PathfindingVisualizer
 1. Comparision on empty grid
-![](/gify/aalgorytm czysty.gif)
+
+![aalgorytm czysty](/gify/aalgorytm czysty.gif)
+
 3. Maze creation(Kruski method and random)
 4. RTX ON/OFF - Real Time Experience :) - pick algorithm
 5. Visited and path count
