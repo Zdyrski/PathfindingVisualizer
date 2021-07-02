@@ -1,6 +1,6 @@
 # PathfindingVisualizer
 
-This project uses Java and JavaFX to visualize two pathfinding algorythms: A* and Dijkstra
+This project uses Java and JavaFX to visualize two pathfinding algorythms: A* and Dijkstra.
 
 ## Comparision on empty grid
 
@@ -15,26 +15,26 @@ This project uses Java and JavaFX to visualize two pathfinding algorythms: A* an
 | ![kruskal](gify/kruskal.gif) | ![Random low density ](gify/random%20density.gif)|
 
 ## RTX ON/OFF - Real Time Experience :) - pick algorithm
-You can move start and end and in the meantime it will calculate path, it may lag on bigger grids
+You can move start and end and in the meantime it will calculate path, it may lag on bigger grids. Turn on and pick algorythm with radio button.
 
 | A* algorythm | Dijkstra algorythm |
 | :---:      | :---:       |
 | ![aalgorytm rtx](gify/aalgorytm%20rtx.gif)     | ![djikstra rtx](gify/djikstra%20rtx.gif) |
 
 ## Draw your own mazes
-Just hold ctrl and draw walls, alt and shift to change location of start and end
+Just hold ctrl and draw walls, alt and shift to change location of start and end.
 
 ![draw](gify/draw.gif)
 
 ## Visited and path count
-You can compare how many squares which algorythm checked and path length
+Counts how many squares were visited and path length.
 
 ## Clear
-Just clear grid
+Just clear grid.
 
 ## Change options
-You can change few options: random density, speed, grid size( bigger = slower :) )
+You can change few options: random density, speed, grid size( bigger = slower :) ).
 
 ## Generate Data
-Logs map(x, y, isWall, isStart, isEnd, Colour) to file
+Logs map(x, y, isWall, isStart, isEnd, Colour) to file.
 
