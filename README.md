@@ -2,7 +2,7 @@
 ## Comparision on empty grid
 
 | ![aalgorytm czysty](gify/aalgorytm%20czysty.gif)     | ![djikstra czysty](gify/djikstra%20czysty.gif) |
-
+| ---      | ---       |
 
 ## Maze creation(Kruskal's method and random)
 ## RTX ON/OFF - Real Time Experience :) - pick algorithm
@@ -12,4 +12,3 @@
 ## Change visualization speed
 ## Save map to file
 
-| ---      | ---       |
