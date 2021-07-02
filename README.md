@@ -12,3 +12,8 @@
 ## Change grid size
 ## Change visualization speed
 ## Save map to file
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
