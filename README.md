@@ -1,5 +1,6 @@
 # PathfindingVisualizer
 1. Comparision on empty grid
+| trtrt | trt |
 
 | ![aalgorytm czysty](gify/aalgorytm%20czysty.gif) | ![djikstra czysty](gify/djikstra%20czysty.gif) |
 
