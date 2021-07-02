@@ -13,7 +13,7 @@
 ## Change visualization speed
 ## Save map to file
 
-| Name     | Character |
+| ![aalgorytm czysty](gify/aalgorytm%20czysty.gif)     | ![djikstra czysty](gify/djikstra%20czysty.gif) |
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
