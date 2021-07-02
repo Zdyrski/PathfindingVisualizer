@@ -3,6 +3,8 @@
 
 ![aalgorytm czysty](gify/aalgorytm%20czysty.gif)
 
+![djikstra czysty](gify/djikstra%20czysty.gif)
+
 3. Maze creation(Kruski method and random)
 4. RTX ON/OFF - Real Time Experience :) - pick algorithm
 5. Visited and path count
